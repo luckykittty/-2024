@@ -13,9 +13,9 @@ Keywords: econometrics, regression, time series, economic models, Excel, Python.
 Nikolai Katargin, Ekaterina Kachalina
 Analysis of Time Series.  Textbook.
 
-
  
 	
                                              ©  Н.В. Катаргин, Е.А.Качалина 2024
                                              © Финансовый университет при Правительстве РФ
        
+Здесь Вы можете найти массивы данных и все программы, которые использовались для решения задач и анализа данных в учебнике. 
